@@ -87,5 +87,5 @@ Wallet balance: 1.2345 NEX
 
 ### Buy me a coffee 🍵
 Address:
-- ETH: 0xadc855ccdd9e7da48755bc507cefe65103b7d025
-- SOL: 52E7popE1gdqnTAsVTLJLBSVWdawZtCUHRLwowfvtcD
+- ETH: 0xdB0bD737e88390C3773F8A23ea43401277BC85B1
+- SOL: 5zQjrgZQGvBztKEeqSimCc9Yh9V4vTLr4YxDu7UufWrN
