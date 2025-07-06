@@ -60,7 +60,7 @@ user@example.com
 ```
 
 ### Usage
-### Step 1: Run the ScriptFrom the repository directory, run:
+### Step 1: Run the Script From the repository directory, run:
 ```bash
 python bot.py
 ```
