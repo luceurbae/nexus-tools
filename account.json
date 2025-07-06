@@ -1,0 +1,42 @@
+{
+    "jwt": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjliOWViMjE4LTI0MzktNGNkMi1iYjc1LTMzYjk2OTdhMTJlNSJ9.eyJraWQiOiI5YjllYjIxOC0yNDM5LTRjZDItYmI3NS0zM2I5Njk3YTEyZTUiLCJhdWQiOiJodHRwczovL2FwcC5uZXh1cy54eXoiLCJpc3MiOiJhcHAuZHluYW1pY2F1dGguY29tL2FkYzA5Y2VhLTYxOTQtNDY2Ny04YmU4LTkzMWNjMjhkYWNkMiIsInN1YiI6IjMyMTNiZTM4LWNkMmItNGVhZC05OWRiLWY3ODQzZjc5YzdiYyIsInNpZCI6IjgzZWFkMzU1LTIxMDgtNGNmZi1hZGQ2LThlNjBiMTdkY2ZhNyIsInNlc3Npb25fcHVibGljX2tleSI6IjAzYjE0NGVkOWVhZTE2MjBhNjA4YmZhNmJkZmUxN2EzYzNlYmNhZjg3NjkwMDM3NzE4OTVjYmEzMGI0ZjMxNTE3ZCIsImVtYWlsIjoiaXphYW5uMjVAZ21haWwuY29tIiwiZW52aXJvbm1lbnRfaWQiOiJhZGMwOWNlYS02MTk0LTQ2NjctOGJlOC05MzFjYzI4ZGFjZDIiLCJsaXN0cyI6W10sIm1pc3NpbmdfZmllbGRzIjpbXSwidmVyaWZpZWRfY3JlZGVudGlhbHMiOlt7ImFkZHJlc3MiOiIweEFkQzg1NUNDZGQ5RTdEQTQ4NzU1YkM1MDdDZWZlNjUxMDNCN0QwMjUiLCJjaGFpbiI6ImVpcDE1NSIsImlkIjoiNzA1ZjMzYzItMWYwMC00NWMxLWFjMDAtM2MxOTgwY2RhYmUwIiwibmFtZV9zZXJ2aWNlIjp7fSwicHVibGljX2lkZW50aWZpZXIiOiIweEFkQzg1NUNDZGQ5RTdEQTQ4NzU1YkM1MDdDZWZlNjUxMDNCN0QwMjUiLCJ3YWxsZXRfbmFtZSI6Im9reHdhbGxldCIsIndhbGxldF9wcm92aWRlciI6ImJyb3dzZXJFeHRlbnNpb24iLCJmb3JtYXQiOiJibG9ja2NoYWluIiwibGFzdFNlbGVjdGVkQXQiOiIyMDI1LTA3LTAxVDExOjQ0OjE3LjI5NloiLCJzaWduSW5FbmFibGVkIjp0cnVlfSx7ImVtYWlsIjoiaXphYW5uMjVAZ21haWwuY29tIiwiaWQiOiJiMzE5MWZhYy1mOWQ3LTRiMTMtYTdlNy00ZDFkZDY5YTgxMWIiLCJwdWJsaWNfaWRlbnRpZmllciI6Iml6YWFubjI1QGdtYWlsLmNvbSIsImZvcm1hdCI6ImVtYWlsIiwic2lnbkluRW5hYmxlZCI6dHJ1ZX1dLCJsYXN0X3ZlcmlmaWVkX2NyZWRlbnRpYWxfaWQiOiJiMzE5MWZhYy1mOWQ3LTRiMTMtYTdlNy00ZDFkZDY5YTgxMWIiLCJmaXJzdF92aXNpdCI6IjIwMjUtMDctMDFUMTE6NDQ6MTcuMjg2WiIsImxhc3RfdmlzaXQiOiIyMDI1LTA3LTA2VDAzOjUzOjI4LjA3NVoiLCJuZXdfdXNlciI6ZmFsc2UsIm1ldGFkYXRhIjp7IkdldCBVcGRhdGVzIjoiIn0sInZlcmlmaWVkQ3JlZGVudGlhbHNIYXNoZXMiOnsiYmxvY2tjaGFpbiI6ImRiZDUwNDRkN2IwMzdjYjUxM2NiMGFlOWQyN2QzNTg2IiwiZW1haWwiOiI1ZWJlMTMyMDA5ZDI0Mjk1YWI5YWQzNWQwMzhkMTBmMiJ9LCJpYXQiOjE3NTE3NzQwMDgsImV4cCI6MTc1MjM3ODgwOH0.cO59AGLD_cpjZMS2IooC4_i-T-HN5IS138dt_vEw3iYIaswbiuakrAB_BVKqMtXSgPUTxlTbA7ALMsyG19Af0uhUAnEzNno8lJHgYVpfEymIVzgtqyHH9Nqku-DwzlE-sSDzxNhq2Q0g2DilfDU8269Bd0O_ryXZBelU_eLzmL1qz1rv87IR-B66aca6DAnKznzpti4dV5VcY2Jym4gq2uB9GjrKual3vXIjByls3msxzJNc97Qhi0EPhDzUiId1sqd9WN1ZaiGsyyb3K5uWDEPoeF58HCzH58_HsAEWpnpG3PIczAiD1Ic5Ju--DU-uPPZE5VDFlOdZdYxlb0vd0WSPLH0KoLFhDNBS2w1B6dosqgp60Fh27k8Q6oVZ94mclFySlwA9xUnHgFxsDdu1hQLn0QnDDF-2efzhOtz_0TSbJGKoaqDNO_KAYL5UJ37jWvj7nLHkjNxJ86752pDnmJsIWBgjSh-w7C09a-jPL6Wlb6TfRS5e-tPh7FzRg8YL3bHinH8U9oRkWJlPF86GlkjY-YSC9WNV6Mv3duszstiOaLLIvKFXrf6ltjB0nnDbA400278IqeaeRYxvjwPgo-SwWZUj1lyP_AosQmQhVGyTatWbAzfhEORJRAMMoNg5pm0VST4gxK4y7XBskqYzdevl-xogi9oZS3rGXSCvXRc",
+    "minifiedJwt": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjliOWViMjE4LTI0MzktNGNkMi1iYjc1LTMzYjk2OTdhMTJlNSJ9.eyJraWQiOiI5YjllYjIxOC0yNDM5LTRjZDItYmI3NS0zM2I5Njk3YTEyZTUiLCJhdWQiOiJodHRwczovL2FwcC5uZXh1cy54eXoiLCJpc3MiOiJhcHAuZHluYW1pY2F1dGguY29tL2FkYzA5Y2VhLTYxOTQtNDY2Ny04YmU4LTkzMWNjMjhkYWNkMiIsInN1YiI6IjMyMTNiZTM4LWNkMmItNGVhZC05OWRiLWY3ODQzZjc5YzdiYyIsInNpZCI6IjgzZWFkMzU1LTIxMDgtNGNmZi1hZGQ2LThlNjBiMTdkY2ZhNyIsImVudmlyb25tZW50X2lkIjoiYWRjMDljZWEtNjE5NC00NjY3LThiZTgtOTMxY2MyOGRhY2QyIiwibGFzdF92ZXJpZmllZF9jcmVkZW50aWFsX2lkIjoiYjMxOTFmYWMtZjlkNy00YjEzLWE3ZTctNGQxZGQ2OWE4MTFiIiwic2Vzc2lvbl9wdWJsaWNfa2V5IjoiMDNiMTQ0ZWQ5ZWFlMTYyMGE2MDhiZmE2YmRmZTE3YTNjM2ViY2FmODc2OTAwMzc3MTg5NWNiYTMwYjRmMzE1MTdkIiwidmVyaWZpZWRDcmVkZW50aWFsc0hhc2hlcyI6eyJibG9ja2NoYWluIjoiZGJkNTA0NGQ3YjAzN2NiNTEzY2IwYWU5ZDI3ZDM1ODYiLCJlbWFpbCI6IjVlYmUxMzIwMDlkMjQyOTVhYjlhZDM1ZDAzOGQxMGYyIn0sImVtYWlsIjoiaXphYW5uMjVAZ21haWwuY29tIiwiaWF0IjoxNzUxNzc0MDA4LCJleHAiOjE3NTIzNzg4MDh9.EnuDf6VQRZnypWA4ZzcoiAGC0ItfIv6apCiod3h96yjvwPXC7ezCM0-Kjyvl3WpGF6MvtprTw8swxR9Z-GcslFRE3sElGsDXM_FYZas3wnK-QW1dT_DnywvlLNrzYAonMn1-2RPc4qQe7ofZE_w4O92xLZV7jaEn03vEo7tkYiS8X4QvevGIgJZd2taQtSigYrq-VqxLDvLd0KgbAaHP_NqI7nLdk6KqzpX9YhuAKDboGg56thOtWFKqHmQeqStnindRygHxrZTntc4CVka9z85GOKSLC56SK7vtJGxCuTHP9HpEcO8oGN6qJOY0D8QtF6vv0TKy1nAnA33vHh3Eu35O5rORUrkY6XoGflBSyCOKmmErl2hACJtBLtrEP2FjQJMamAUdmRPegTt_JMWsN7lN98lw6Xs1Zqlv8D745vRU6ArV27hEP7SEspxjZ54erKFFus8mwKb6f9D7qIHdvJZH1_mmh000CU6149jxNeAbYqjcHv1w1Uake3o92PNaH4p8e70W2vW0vA4Uu5oEr_YF9neYPLhufgW6ieRSf9lKCzEcEjiBXjBA2ylxebl9mnvZn5mPNIqodSzYwER3a3HXQbjTotrCKfEZjfYj811JgOIIQ-EKkApOfI3p5JEi7cif9Ou9TET_8KzvHzmlzIHyKb61QPEs9Q-DqCxew9w",
+    "expiresAt": 1752378808,
+    "user": {
+        "id": "3213be38-cd2b-4ead-99db-f7843f79c7bc",
+        "projectEnvironmentId": "adc09cea-6194-4667-8be8-931cc28dacd2",
+        "verifiedCredentials": [
+            {
+                "address": "0xAdC855CCdd9E7DA48755bC507Cefe65103B7D025",
+                "chain": "eip155",
+                "id": "705f33c2-1f00-45c1-ac00-3c1980cdabe0",
+                "name_service": {},
+                "public_identifier": "0xAdC855CCdd9E7DA48755bC507Cefe65103B7D025",
+                "wallet_name": "okxwallet",
+                "wallet_provider": "browserExtension",
+                "format": "blockchain",
+                "lastSelectedAt": "2025-07-01T11:44:17.296Z",
+                "signInEnabled": true
+            },
+            {
+                "email": "izaann25@gmail.com",
+                "id": "b3191fac-f9d7-4b13-a7e7-4d1dd69a811b",
+                "public_identifier": "izaann25@gmail.com",
+                "format": "email",
+                "signInEnabled": true
+            }
+        ],
+        "lastVerifiedCredentialId": "b3191fac-f9d7-4b13-a7e7-4d1dd69a811b",
+        "sessionId": "83ead355-2108-4cff-add6-8e60b17dcfa7",
+        "email": "izaann25@gmail.com",
+        "firstVisit": "2025-07-01T11:44:17.286Z",
+        "lastVisit": "2025-07-06T03:53:28.075Z",
+        "newUser": false,
+        "metadata": {
+            "Get Updates": ""
+        },
+        "mfaBackupCodeAcknowledgement": null,
+        "lists": [],
+        "missingFields": []
+    }
+}
