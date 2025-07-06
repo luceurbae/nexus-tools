@@ -5,37 +5,11 @@ The **Nexus Bot** is a Python script designed to automate interactions with the 
 ## Features
 
 ### 1. Email Verification
-- **Description**: Reads an email address from `email.txt`, sends a verification request to the Nexus API, and completes the process using an OTP provided by the user. The response, including a JWT token and wallet address, is saved to `account.json`.
-- **Process**:
-  - Reads the email from `email.txt`.
-  - Sends a verification request to obtain a `verificationUUID`.
-  - Prompts the user to enter the OTP received via email.
-  - Completes the verification and saves the response to `account.json`.
-- **Output**: Generates `account.json` containing the JWT token and wallet address.
-
 ### 2. Claim Points (Auto Looping)
-- **Description**: Automatically claims points using the JWT token from `account.json`. Users can specify a minimum and maximum delay (in seconds) for random intervals between claims.
-- **Process**:
-  - Reads the JWT token from `account.json`.
-  - Prompts for minimum and maximum delay values (e.g., `200` and `300` seconds).
-  - Claims points in a loop with random delays within the specified range.
-  - Stops the loop with `Ctrl+C`.
-- **Output**: Displays success or failure messages for each claim attempt.
-
 ### 3. Check Balance
-- **Description**: Retrieves the wallet balance in Nexus testnet using the wallet address in `account.json`.
-- **Process**:
-  - Reads the wallet address from `account.json`.
-  - Queries the Nexus testnet API and converts the balance to NEX.
-- **Output**: Displays the balance (e.g., `Wallet balance: 1.2345 NEX`).
-
-### 4. Exit
-- **Description**: Terminates the program.
 
 ## Prerequisites
-- **Python 3.6 or higher**: Ensure Python is installed on your system.
-- **Internet Connection**: Required for API interactions.
-- **Text Editor**: To create or modify `email.txt`.
+- **Register nexus here: https://app.nexus.xyz**
 
 ## Installation
 
