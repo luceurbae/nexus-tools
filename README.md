@@ -1,4 +1,4 @@
-# Nexus Bot
+# Nexus Auto Bot
 
 The **Nexus Bot** is a Python script designed to automate interactions with the Nexus platform. It provides features for email verification, automatic point claiming, and wallet balance checking. The bot uses the `rich` library to offer a visually appealing terminal interface with colored text, tables, and panels for an enhanced user experience.
 
