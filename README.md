@@ -23,7 +23,7 @@ The **Nexus Bot** is a Python script designed to automate interactions with the 
 - **Output**: Displays success or failure messages for each claim attempt.
 
 ### 3. Check Balance
-- **Description**: Retrieves the wallet balance in ETH from the Nexus testnet using the wallet address in `account.json`.
+- **Description**: Retrieves the wallet balance in Nexus testnet using the wallet address in `account.json`.
 - **Process**:
   - Reads the wallet address from `account.json`.
   - Queries the Nexus testnet API and converts the balance to NEX.
@@ -64,7 +64,7 @@ user@example.com
 ```bash
 python bot.py
 ```
-Step 2: Select a FeatureThe script will display a menu:
+Step 2: Select a Feature The script will display a menu:
 ```
 Current time: 02:20 PM 06-07-2025
 ╭─────────────── Feature Menu ───────────────╮
