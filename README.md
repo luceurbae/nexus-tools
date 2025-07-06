@@ -83,7 +83,7 @@ Example output:
 ```
 Wallet balance: 1.2345 NEX
 ```
-### Exit (Option 4)Select 4 to terminate the program.
+### Exit (Option 4) Select 4 to terminate the program.
 
 ### Buy me a coffee 🍵
 Address:
